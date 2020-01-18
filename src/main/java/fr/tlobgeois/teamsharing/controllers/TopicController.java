@@ -10,6 +10,6 @@ public class TopicController {
 
     @PostMapping
     public void post() {
-	// empty controller
+	// Empty
     }
 }
