@@ -1,10 +1,10 @@
 ---
 name: User Story
 about: A template for create user story
-title: US
+title: As a ... , I want to ..., so that ...
 labels: U.S
 assignees: Tomasl77
 
 ---
 
-
+Related Epic : #
